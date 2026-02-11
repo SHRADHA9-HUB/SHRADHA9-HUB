@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Shradha | Portfolio</title>
+<style>
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+body{
+  background: linear-gradient(135deg,#0f172a,#020617);
+  color:white;
+}
+.container{
+  width:90%;
+  max-width:1100px;
+  margin:auto;
+}
+
+nav{
+  display:flex;
+  justify-content:space-between;
+  padding:20px 0;
+}
+.logo{
+  font-size:24px;
+  font-weight:bold;
+  letter-spacing:1px;
+}
+
+.hero{
+  margin-top:80px;
+  text-align:center;
+}
+
+.card{
+  background:rgba(255,255,255,0.05);
+  padding:25px;
+  border-radius:16px;
+  margin:20px 0;
+  backdrop-filter:blur(10px);
+  box-shadow:0 20px 40px rgba(0,0,0,0.4);
+  transform-style:preserve-3d;
+  transition:0.4s;
+}
+
+.card:hover{
+  transform:translateY(-10px) rotateX(6deg);
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:20px;
+}
+
+.btn{
+  display:inline-block;
+  padding:10px 18px;
+  background:#6366f1;
+  border-radius:30px;
+  text-decoration:none;
+  color:white;
+  margin-top:10px;
+}
+
+footer{
+  text-align:center;
+  margin:40px 0;
+  opacity:.7;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <nav>
+    <div class="logo">Shradha</div>
+    <div>CSE Student</div>
+  </nav>
+
+  <section class="hero">
+    <h1>Hi, I'm Shradha 👋</h1>
+    <p>B.Tech CSE – Data Science Specialization</p>
+    <p>Passionate about coding & building real world projects</p>
+  </section>
+
+  <section class="card">
+    <h2>About Me</h2>
+    <p>I am a Computer Science student interested in IoT, Cybersecurity and Game Development. I love turning ideas into projects through clean code and creativity.</p>
+  </section>
+
+  <section class="grid">
+    <div class="card">
+      <h3>Skills</h3>
+      <p>Python, C, Java (Learning)</p>
+    </div>
+
+    <div class="card">
+      <h3>Project</h3>
+      <p>Encrypted Chat Room – secure communication platform focused on privacy.</p>
+    </div>
+
+    <div class="card">
+      <h3>Interests</h3>
+      <p>IoT • Cybersecurity • Game Dev</p>
+    </div>
+  </section>
+
+  <section class="card">
+    <h3>Collaboration</h3>
+    <p>Open to collaborations, internships and open‑source projects.</p>
+    <a class="btn" href="#">GitHub Profile</a>
+  </section>
+
+  <footer>
+    Exploring • Learning • Building Every Day
+  </footer>
+</div>
+</body>
+</html>
