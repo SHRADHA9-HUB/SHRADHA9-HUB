@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi there 👋 I'm Shradha
 
-<!--
-**SHRADHA9-HUB/SHRADHA9-HUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 CSE Student | Data Science Specialization
 
-Here are some ideas to get you started:
+I’m a B.Tech Computer Science student passionate about coding and building real‑world projects. I enjoy exploring new technologies and turning ideas into working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🔭 Currently Working On
+
+* **Encrypted Chat Room** – a secure communication platform focused on privacy and encryption
+
+### 🌱 Currently Learning
+
+* Java
+* Data Structures & Algorithms
+* Concepts for IoT and Cybersecurity
+
+---
+
+### 💻 Skills
+
+* **Languages:** Python, C, Java (learning)
+* **Domains:** IoT, Game Development, Cybersecurity
+* **Interests:** Project building, problem solving, secure systems
+
+---
+
+### 👯 Collaboration
+
+* Open to project collaborations
+* Interested in internships and open‑source contributions
+
+---
+
+### 🎯 Goals
+
+* Build innovative and useful tech projects
+* Strengthen problem‑solving and development skills
+* Explore security and smart systems
+
+---
+
+### ⚡ About Me
+
+Exploring • Learning • Building every day
+
+---
+
+⭐ Feel free to check out my repositories and projects!
